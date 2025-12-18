@@ -1,4 +1,4 @@
-# 🖐️ Finger Gesture Detector 😎
+# Finger Gesture Detector 
 
 Ek fun computer vision project jisme webcam se **haath detect hota hai**,  
 **fingers count** hote hain.
