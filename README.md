@@ -21,5 +21,7 @@ Ek fun computer vision project jisme webcam se **haath detect hota hai**,
 
 ## 🚀 How to Run
 ```bash
-pip install opencv-python mediapipe
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+pip install opencv-python mediapipe==0.10.14
 python finger.py
